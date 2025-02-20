@@ -174,4 +174,4 @@ cython_debug/
 .pypirc
 
 # Custom 
-data_no_upload/
+**/data_no_upload/
