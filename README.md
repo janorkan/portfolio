@@ -46,6 +46,10 @@ coming soon
 
 ### Clustering
 
+#### Multidimensional Customer Segmentation with KMeans
+- [Python, pandas, sklearn, seaborn]
+- Multidimensional KMeans cluster segmentation on Kaggle dataset "Mall_Customers" with PCA and 3d plotting. [Link](https://github.com/janorkan/portfolio/tree/main/Customer%20Segmentation%20-%20KMeans%20Multidimensional%20Clustering)
+
 #### Customer Segmentation with KMeans
 - [Python, pandas, sklearn, seaborn]
 - Creating random customer data, visualizing and clustering with KMeans. Identifying optimal cluster number with ellbow and silhouette score. [Link](https://github.com/janorkan/portfolio/tree/main/Customer%20Segmentation%20-%20KMeans%20Clustering)
@@ -61,6 +65,10 @@ coming soon
 #### Image Generation with GaussianMixture
 - [Python, sklearn, pandas]
 - Identifying number images from MNIST dataset and using GaussianMixture to generate new images. [Link](https://github.com/janorkan/portfolio/tree/main/Gaussian%20Mixture)
+
+#### Price Class Classification
+- [Python, pandas, sklearn, seaborn]
+- Small training project to categorize random product features to pricing classes with RandomForestClassifier. [Link](https://github.com/janorkan/portfolio/tree/main/Classification%20-%20Price%20Range)
 
 --- 
 
