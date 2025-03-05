@@ -102,6 +102,10 @@ Let's have a look at my recent projects.
 - Extensive data analytics project with pandas, data cleaning, data grouping and pivoting. Interactive visualisations with plotly. [Link](https://github.com/janorkan/portfolio/tree/main/School%20donations%20-%20Data%20analytics%20project)
 - Note: Plotly graphs can be found in folder "Results", due to incompatible view in GitHub notebooks.
 
+#### Financial Stocks Analytics
+- [Python, pandas, requests, seaborn]
+- Using the FinancialModelingAPI to get stock data for Hensoldt,rheinmetall and other defense stocks for reindexing, return analysis and momentum visualisation. [Link](https://github.com/janorkan/portfolio/tree/main/Financial%20Data%20Analysis)
+
 #### Data Cleaning Project
 - [Python, pandas, seaborn]
 - Simple data cleaning project as finger exercise: Datetime corrections, fill NA values, outliers, duplicates. [Link](https://github.com/janorkan/portfolio/tree/main/DirtyData)
