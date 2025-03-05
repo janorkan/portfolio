@@ -1,4 +1,4 @@
-# Portfolio
+# :computer:Portfolio
 
 Hi, this is me showing you a selection of my Python, SQL & data science projects.
 
@@ -11,7 +11,7 @@ Hi, this is me showing you a selection of my Python, SQL & data science projects
   + [Data Analytics](#data-analytics)
   + [Statistics](#statistics)
 
-## About Me
+## :raised_hands: About Me
 
 My Name is Jan. I'm from Germany and here are some short information about my education and work experience.
 
@@ -28,15 +28,22 @@ As you can see, I'm not an educated software engineer or data scientist. I came 
 
 What sets me apart from many other data scientists is my experience and my understanding of business contexts and processes. The business impact sets the goal and effort of any IT project. 
 
-## Projects
+Let's have a look at my recent projects.
 
-### Neural Networks
 
-coming soon
+## :construction_worker: Projects
+
+
+### :star: Neural Networks
+
+#### 3-Layer NN from Scratch
+- [Python, numpy]
+- Building a 3 layer neural network with numpy step by step with forward and backpropagating using numpy matrices. [Link](https://github.com/janorkan/portfolio/tree/main/Neuronal%20Network%20on%20MNIST%20data)
+- Also creating a reusable class and functions for this 3-layer neural network. [Link](https://github.com/janorkan/neuronal-networks) 
 
 ---
 
-### Natural Language Processing
+### :orange_book: Natural Language Processing
 
 #### eCommerce Support ChatBot with LLM
 - [Python, sklearn, pandas, CountVectorizer, MistralAI]
@@ -44,7 +51,7 @@ coming soon
 
 ---
 
-### Clustering
+### :family: Clustering
 
 #### Multidimensional Customer Segmentation with KMeans
 - [Python, pandas, sklearn, seaborn]
@@ -56,7 +63,7 @@ coming soon
 
 ---
 
-### Classification
+### :rainbow: Classification
 
 #### Evaluation ML Models for Gender Classification
 - [Python, sklearn, pandas, matplotlib]
@@ -72,7 +79,7 @@ coming soon
 
 --- 
 
-### Regression
+### :chart_with_upwards_trend: Regression
 
 #### Logistic Regression for Tumor Detection
 - [Python, pandas, sklearn, seaborn]
@@ -88,7 +95,7 @@ coming soon
 
 --- 
 
-### Data Analytics
+### :bar_chart: Data Analytics
 
 #### Analysing Donation Behaviour
 - [Python, pandas, plotly]
@@ -101,10 +108,14 @@ coming soon
 
 ---
 
-### Statistics
+### :books: Statistics
 
 #### Information and Statistical Analysis
 - [Python, pandas, sklearn]
 - Calculating feature entropy and information gain together with basic statistical information about the dataset. [Link](https://github.com/janorkan/portfolio/tree/main/Information%20and%20Statistical%20Analysis)
+
+#### Dendrograms
+- [Python]
+- Visualizing distance methods, used for clustering in dendrograms. [Link](https://github.com/janorkan/portfolio/tree/main/Dendrograms)
 
 ---
