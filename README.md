@@ -36,10 +36,14 @@ Let's have a look at my recent projects.
 
 ### :star: Neural Networks
 
+#### PyTorch Neural Network for MNIST
+- [Python, PyTorch, Matplotlib]
+- Pytorch NN with classes and functions for MNIST dataset. Evaluating hidden layers, activation functions, learning rates, loss functions, optimization functions and epochs to understand performance optimization of NNs. [Link](https://github.com/janorkan/neuronal-networks/tree/main/pytorch_approach)
+
 #### 3-Layer NN from Scratch
 - [Python, numpy]
 - Building a 3 layer neural network with numpy step by step with forward and backpropagating using numpy matrices. [Link](https://github.com/janorkan/portfolio/tree/main/Neuronal%20Network%20on%20MNIST%20data)
-- Also creating a reusable class and functions for this 3-layer neural network. [Link](https://github.com/janorkan/neuronal-networks) 
+- Also creating a reusable class and functions for this 3-layer neural network. [Link]([https://github.com/janorkan/neuronal-networks](https://github.com/janorkan/neuronal-networks/tree/main/numpy_approach)) 
 
 ---
 
@@ -52,6 +56,10 @@ Let's have a look at my recent projects.
 ---
 
 ### :family: Clustering
+
+#### Multidimensional University Data Clustering with KMeans
+- [Python, pandas, sklearn, seaborn]
+- Multidimensional KMeans cluster segmentation on "University data" with PCA. [Link](https://github.com/janorkan/portfolio/tree/main/University%20Data%20-%20Clustering%20KMeans)
 
 #### Multidimensional Customer Segmentation with KMeans
 - [Python, pandas, sklearn, seaborn]
