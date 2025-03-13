@@ -4,7 +4,7 @@ Hi, this is me showing you a selection of my Python, SQL & data science projects
 
 - [About Me](#about-me)
 - [Projects](#projects)
-	+ [Neural Networks](#neural-networks)
+  + [Neural Networks](#neural-networks)
   + [Clustering](#clustering)
   + [Classification](#classification)
   + [Regression](#regression)
@@ -33,6 +33,14 @@ Let's have a look at my recent projects.
 
 ## :construction_worker: Projects
 
+### 💚 Real-World / Heart Projects
+
+#### FundamentalStock Analysis
+- [Python, Postgres DBMS, SQL, Streamlit, MistralAI Systems]
+- A heart project of mine to transfer my fundamental value investment approach from excel to Python, SQL and an AI System.
+- Project under construction, but first steps and roadmap can be found here: [Link](https://github.com/janorkan/FundamentalStocks/)
+
+---
 
 ### :star: Neural Networks
 
