@@ -44,6 +44,10 @@ Let's have a look at my recent projects.
 
 ### :star: Neural Networks
 
+#### TensorFlow NN for LendingClub Loan Data
+- [Python, Tensorflow, Keras]
+- Tensorflow model on a lendingclub loan dataset including data analysis, data cleaning and data preparation. [Link](https://github.com/janorkan/neuronal-networks/tree/main/Tensorflow_for_LendingClubData)
+
 #### PyTorch Neural Network for MNIST
 - [Python, PyTorch, Matplotlib]
 - Pytorch NN with classes and functions for MNIST dataset. Evaluating hidden layers, activation functions, learning rates, loss functions, optimization functions and epochs to understand performance optimization of NNs. [Link](https://github.com/janorkan/neuronal-networks/tree/main/pytorch_approach)
@@ -112,6 +116,10 @@ Let's have a look at my recent projects.
 --- 
 
 ### :bar_chart: Data Analytics
+
+#### Data Cleaning and Data Analytics on LendingClub Loan Data
+- [Python, pandas, seaborn]
+- Data cleaning and data analytics as preparation for a neural netwokr training on a large loan dataset. [Link](https://github.com/janorkan/neuronal-networks/tree/main/Tensorflow_for_LendingClubData)
 
 #### Analysing Donation Behaviour
 - [Python, pandas, plotly]
